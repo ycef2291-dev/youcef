@@ -1,0 +1,7 @@
+{
+  "name": "كليكا",
+  "description": "تطبيق كليكا للبث المباشر والغرف الصوتية والتواصل الاجتماعي مع غرف نشطة ومشاهدة يوتيوب ومحادثات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
